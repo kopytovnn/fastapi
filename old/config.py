@@ -1,0 +1,5 @@
+AVAiLABLE_IPS = []
+
+AVAiLABLE_TOKENS = []
+
+SERVER = ''
